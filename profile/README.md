@@ -3,10 +3,10 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="10%">
       <img src="./picture/Narwhal-logo.png" alt="ZER0x13 Logo" style="max-width: 100%; height: auto;">
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="9.2%">
       <img src="./picture/DGSSLNO13HS.jpg" alt="DGSSLNO13HS" style="max-width: 100%; height: auto;">
     </td>
   </tr>
