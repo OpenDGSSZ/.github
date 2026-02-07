@@ -1,17 +1,17 @@
 ### OpenDGSSZ - A computer technology enthusiasts club from the shores of Songshan Lake
-> Self-Confidence and Self-Reliance, Openness and Inclusiveness
+> 没有什么能够阻挡你对自由的向往 ———— 《蓝莲花》
 
 <table>
   <tr>
     <td align="center" width="10%">
-      <img src="./picture/OpenDGSSZ.jpg" alt="ZER0x13 Logo" style="max-width: 100%; height: auto;">
+      <img src="./picture/blue-lotus.png" alt="Blue-Lotus" style="max-width: 100%; height: auto;">
     </td>
     <td align="center" width="9.2%">
       <img src="./picture/DGSSLNO13HS.jpg" alt="DGSSLNO13HS" style="max-width: 100%; height: auto;">
     </td>
   </tr>
   <tr>
-    <td align="center"><small>OpenDGSSZ</small></td>
+    <td align="center"><small>Blue-Lotus</small></td>
     <td align="center"><small>Dongguan No.13 High School</small></td>
   </tr>
 </table>
