@@ -1,4 +1,4 @@
-### OpenDGSSZ - A computer technology enthusiasts club from the shores of Songshan Lake
+### OpenDGSSZ_Blue-Lotus - A computer technology enthusiasts club from the shores of Songshan Lake
 > 没有什么能够阻挡你对自由的向往 ———— 《蓝莲花》
 
 <table>
