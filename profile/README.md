@@ -3,10 +3,10 @@
 <table>
   <tr>
     <td align="center" width="10%">
-      <img src="./picture/me.png" alt="WE" style="max-width: 100%; height: auto;">
+      <img src="./picture/we.png" alt="WE" style="max-width: 100%; height: auto;">
     </td>
     <td align="center" width="10%">
-      <img src="./picture/DGSSLNO13HS.jpg" alt="DGSSLNO13HS" style="max-width: 100%; height: auto;">
+      <img src="./picture/dgssz.png" alt="DGSSLNO13HS" style="max-width: 100%; height: auto;">
     </td>
   </tr>
   <tr>
